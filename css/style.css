@@ -18,19 +18,14 @@ h3{
 
 img{
   width: 50%;
-
 }
 
-.dice2
-{
-    display:inline;
-}
 .container{
   text-align: center;
   display: flex;
   justify-content: center;
-
 }
+
 .btn {
   margin: 3% auto 1% auto;
   background: #0951A8;
